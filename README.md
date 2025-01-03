@@ -5,7 +5,7 @@
 <h1 align="center">Hello 👋, I'm NAWAL LAMGHARI</h1>
 <h2 align="center">Web Developer | Fullstack Developer</h2>
 
-## 🚀 About Me
+## 🚀 about Me
 
 <div align="center">
   <p>I'm a software engineering student with a strong focus on creating efficient web and mobile applications. 🌐✨</p>
