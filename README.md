@@ -28,9 +28,15 @@
 ## 🔗 Links
 
 <div style="text-align: center;">
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawal-lamghari-9282181b5/)
-  [![x](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NAWAL__LAMGHARI)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+  <a href="https://www.linkedin.com/in/nawal-lamghari-9282181b5/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/NAWAL__LAMGHARI">
+    <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://discord.com/channels/@me">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
