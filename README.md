@@ -31,10 +31,10 @@
 
 <div style="text-align: center;">
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ayaoulhint.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-oulhint-1b8884248)
-[![x](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AOulhint39232)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://Discordapp.com/users/980396553250426930)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawal-lamghari-9282181b5/)
+[![x](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NAWAL__LAMGHARI)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 </div>
 
@@ -90,4 +90,8 @@
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/>
 </a>
+<a href="https://symfony.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/>
+</a>
+
 </p>
