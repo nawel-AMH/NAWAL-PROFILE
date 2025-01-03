@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead">
+  <img src="https://media-hosting.imagekit.io//a4d24e29b9a847dd/work-office.gif?Expires=1736066039&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=f5fBBBrcgFuyPURvTyoWfLW4C8XRbHxrzdKkflHn~MqKwTbEFbtm2wOFf8k2MVBxbzR92zFM8jqY6vz~usKk3EKJPUaR1QNDM7GjTv4Dh6XmWlTtDaLuG~XMhBzJW31V9UtGC-KcfdTgFSnE00sv3l1xi-OlH5dAoi-LJpTHHwgO5wMFRxa4m3JzTCIQk8VPgQFSTEcl1OITSwJGD60dGq37IwkrQwqgRAIjwo2rh~tKd7vo-lMjFubGyYo62teS~lIZ9J1ODes-nBTYE~GOG7X8dw98Ng2DfNYZ5nPaZMlYLDGVoi4oe9Bu-hkCRI0KrnFJm1KhqZPPq5FwQitRCw__" alt="MasterHead">
 </div>
 
-<h1 align="center">Hi 👋, I'm Aya OULHINT</h1>
+<h1 align="center">Hello 👋, I'm NAWAL LAMGHARI</h1>
 <h2 align="center">Web Developer | Fullstack Developer</h2>
 
 ## 🚀 About Me
 
 <div align="center">
-  <p>I'm a passionate software engineering student focused on web development. 🌐✨</p>
-<p>Always eager to learn and grow, I'm on a mission to create stunning, user-friendly web experiences. 🚀</p>
-<p>Let's connect and make the web a better place, one line of code at a time! 💻💡</p>
+  <p>I'm a software engineering student with a strong focus on creating efficient web and mobile applications. 🌐✨</p>
+<p>Driven by curiosity and a love for problem-solving, I aim to develop meaningful, user-centered solutions that make a difference. 🚀</p>
+<p>Let's connect and work together to shape the future of technology! 💻💡</p>
 </div>
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
-    <p>👩‍💻 <strong>I'm currently Studying --> </strong> Software Engineering </p>
-    <p>🧠 <strong>I'm currently learning --> </strong> Laravel</p>
-    <p>📫 <strong>How to reach me --> </strong> oulhintaya702@gmail.com</p>
-    <p>⚡️ <strong>Fun fact --> </strong> I love hiking and once climbed a mountain with a laptop to get some work done with a view! 🏔️💻</p>
+    <p>👩‍💻 <strong>I'm currently Studying --> </strong> Software Engineering at Universiapolis University, Agadir </p>
+    <p>🧠 <strong>I'm currently learning --> </strong> Spring Boot</p>
+    <p>📫 <strong>How to reach me --> </strong> lamgharinawel@gmail.com</p>
+    <p>⚡️ <strong>Fun fact --> </strong> I enjoy exploring new places and dream of coding with a view of the ocean! 🌊💻</p>
   </div>
   <div align="center">
-    <img src="https://i.pinimg.com/originals/7e/02/d4/7e02d46ace448205435d8c10d66bbceb.gif" alt="Coding" style="width: 500px; height: auto;">
+    <img src="https://media-hosting.imagekit.io//3f636a76cf804202/giphy-ezgif.com-webp-to-gif-converter.gif?Expires=1736065982&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=uxrcvq7uYNRFDOwVj2lSGsHCGl-8bWGKRar2Y8mCPDJqRH3sjFCOP6b052jiS1T1NlJwyCJgdJCnk~oISbc0W~f5K3AZdYGPwnTm7dmvCW4s-ucTiqOl~hjxPJoa4AqH4YmV5h~ZSLDVlAYQJLCY3Y2LkEztSvkj-W7APBPwHOwUtxCsz41Cq8OMudLGdEXfxzX5Kd0Nvrgh98dVyvF2Mf0oGcupkUiwNM8Xuk3PSpPfP0xcVcJtU-2pzweNlOBDudPxvzR5Trb5xhfU4k6APsAPUz7zpMQojQHbD7lvPwdR2NNJbdvPlW43B8k3DkgAy7yTubGSuhhC56I~0BhR5w__" alt="Coding" style="width: 500px; height: auto;">
   </div>
 </div>
 
