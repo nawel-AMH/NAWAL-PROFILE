@@ -82,21 +82,3 @@
   </a>
 </p>
 
-## 🚀 GitHub Repositories
-
-<div align="center">
-  <h2>My GitHub Repositories</h2>
-  <ul id="repo-list"></ul>
-</div>
-
-<script>
-  fetch('https://api.github.com/users/nawel-AMH/repos')
-    .then(response => response.json())
-    .then(data => {
-      let repoList = '';
-      data.forEach(repo => {
-        repoList += `<li><a href="${repo.html_url}" target="_blank">${repo.name}</a></li>`;
-      });
-      document.getElementById('repo-list').innerHTML = repoList;
-    });
-</script>
