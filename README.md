@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center">Hello 👋, I'm NAWAL LAMGHARI</h1>
-<h2 align="center">Web Developer | Fullstack Developer</h2>
+<h2 align="center">Web Developer | Fullstack Developer</h2>
 
-## 🚀 about Me
+## 🚀 About Me
 
 <div align="center">
   <p>I'm a software engineering student with a strong focus on creating efficient web and mobile applications. 🌐✨</p>
-<p>Driven by curiosity and a love for problem-solving, I aim to develop meaningful, user-centered solutions that make a difference. 🚀</p>
-<p>Let's connect and work together to shape the future of technology! 💻💡</p>
+  <p>Driven by curiosity and a love for problem-solving, I aim to develop meaningful, user-centered solutions that make a difference. 🚀</p>
+  <p>Let's connect and work together to shape the future of technology! 💻💡</p>
 </div>
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
@@ -25,23 +25,13 @@
   </div>
 </div>
 
-
-
 ## 🔗 Links
 
 <div style="text-align: center;">
-
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawal-lamghari-9282181b5/)
-[![x](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NAWAL__LAMGHARI)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawal-lamghari-9282181b5/)
+  [![x](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NAWAL__LAMGHARI)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 </div>
-
-
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -75,23 +65,38 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</a>
-
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Laravel_Logo.svg" alt="laravel" width="40" height="40"/>
-</a>
-
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
-
-<a href="https://angular.io/" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/>
-</a>
-<a href="https://symfony.com/" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/>
-</a>
-
+  </a>
 </p>
+
+## 🚀 GitHub Repositories
+
+<div align="center">
+  <h2>My GitHub Repositories</h2>
+  <ul id="repo-list"></ul>
+</div>
+
+<script>
+  fetch('https://api.github.com/users/nawel-AMH/repos')
+    .then(response => response.json())
+    .then(data => {
+      let repoList = '';
+      data.forEach(repo => {
+        repoList += `<li><a href="${repo.html_url}" target="_blank">${repo.name}</a></li>`;
+      });
+      document.getElementById('repo-list').innerHTML = repoList;
+    });
+</script>
